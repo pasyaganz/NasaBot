@@ -1,0 +1,45 @@
+Cara Install Sc Biar Ngk Error
+Download Sc Nya Lalu Di extrak
+Trs Buka Termos/termux
+Ketik Code Di Bawah Ini Satu Persatu!!!
+
+$ termux-setup-storage
+$ cd
+$ ls ( LS Kecil Semua Jadinya ls )= Gunanya Buat Liat File
+$ cd storage
+$ ls ( LS Kecil Semua Jadinya ls )= Gunanya Buat Liat File
+$ cd downloads
+$ ls ( LS Kecil Semua Jadinya ls )= Gunanya Buat Liat File
+$ cd Keyla
+$ ls ( LS Kecil Semua Jadinya ls )= Gunanya Buat Liat File
+$ bash install.sh
+$ node .
+
+Dah Tinggal Scan Kalau Code Qr Tdk Muncul Ketik Code Dibawah Ini!!
+Exit Termuxnya dulu Biar Ngk Error
+
+$ rm -rf node_modules
+$ npm install -g npm@6.14.14
+$ npm install
+$ node .
+
+Tetap Ngk Keluar Code Qrnya?
+Atau Menu Ngk Muncul?
+Chat Pemilik Script Ini
+KeylaCans
+
+Yang Wajib Di Ganti
+CONFIG: Edit Owner Dan NickName Sticker
+PLUGIN: Edit Menu Dan Fitur
+Yang Lain Jangan Di Ubah"" Nanti Error
+Kalau Mau Recode Full Silahkan Tanya KeylaCans
+Pakai Termux? Fitur Welcome, AutoLevelUp Error? Ngk Support
+Tunggu Sc Selanjutnya Yg Support Ama Termux :v
+
+Note: 
+Jangan Jual Sc Ini Karena Sc Ini Gratis Dari Nurutomo
+Lu Suka Recode? Recode Aja Tp Jangan Jual Kasihan Yg Laen..
+{ Nomer Wa KeylaCans: wa.me/62822648654777 }
+
+Thanks To:
+Nurutomo-BochilGaming-Idham-Ariffb-Jasa Apikey-Marvell-You....
