@@ -4,6 +4,10 @@
 <h1 align="center">NasaBot</h1>
 
 # NasaBot By Marvel
+## Ada Bug, Erorr, atau mau Request? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px">
+[`Chat Admin`](https://wa.me/62895334402456)
+Atau Bisa Lewat Issue :)
+
 
 Rpg WhatsApp Bot
 
