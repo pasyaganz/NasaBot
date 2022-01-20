@@ -107,16 +107,6 @@ Setel awalan
 
 Digunakan untuk [heroku](https://heroku.com/) atau pindai melalui situs web
 
-### `--db <json-server-url>`
-
-Gunakan db eksternal alih-alih db lokal, 
-Contoh Server `https://json-server.nurutomo.repl.co/`
-Code: `https://repl.it/@Nurutomo/json-server`
-
-`node . --db 'https://json-server.nurutomo.repl.co/'`
-
-Server harus memiliki spesifikasi seperti ini
-
 #### GET
 
 ```http
