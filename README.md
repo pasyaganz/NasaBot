@@ -8,8 +8,7 @@
 [`Chat Admin`](https://wa.me/62895334402456)
 Atau Bisa Lewat Issue :)
 
-# Di File Main.js Itu Ada Version jika bot eror kalian hapus saja version nya, Jika Masih Eror
-Kalian Bisa Hubungi Nomer Owner [`Chat Owner`](https://wa.me/62895334402456)
+# Di Tunggu Yak Nanti Update Nasabot sama node modules nya kalau sekarang lagi mager pen rebahan dulu :v
 
 
 Rpg WhatsApp Bot
