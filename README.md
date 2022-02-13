@@ -8,7 +8,7 @@
 [`Chat Admin`](https://wa.me/62895334402456)
 Atau Bisa Lewat Issue :)
 
-# Di Tunggu Yak Nanti Update Nasabot sama node modules nya kalau sekarang lagi mager pen rebahan dulu :v
+# Di Tunggu Yak Nanti Update Nasabot nya kalau sekarang lagi mager pen rebahan dulu :v
 
 
 Rpg WhatsApp Bot
